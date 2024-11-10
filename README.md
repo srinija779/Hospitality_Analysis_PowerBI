@@ -1,5 +1,3 @@
-## Hospitality Analysis - PowerBI
-
 ## Problem Statement
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -15,6 +13,16 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation.)
 
 - Tried using color palette and stick with that colors throughout the dashboard 
+
+## Revenue Analysis View
+
+![revenue analysis ](https://github.com/user-attachments/assets/1e4f287e-f358-4a79-9038-11f968c88245)
+
+
+## Loss Analysis View 
+
+![Loss analysis](https://github.com/user-attachments/assets/ff136306-2e96-4345-bfe0-01c69d81a6d4)
+
 
 ## Some Key insights
 
