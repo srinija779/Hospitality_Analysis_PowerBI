@@ -1,4 +1,4 @@
-## Hospitality Analysis Dashboard
+## Hospitality Analysis - Hotel Chain Business Dash Board
 
 ## Problem Statement
 
