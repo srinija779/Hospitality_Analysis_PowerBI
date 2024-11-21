@@ -18,13 +18,15 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Revenue Analysis View
 
-![revenue analysis ](https://github.com/user-attachments/assets/1e4f287e-f358-4a79-9038-11f968c88245)
-
+![Revenue](https://github.com/user-attachments/assets/eb66f894-79ef-4906-bfcc-2d81bdfa8331)
 
 ## Loss Analysis View 
 
-![Loss analysis](https://github.com/user-attachments/assets/ff136306-2e96-4345-bfe0-01c69d81a6d4)
+![loss](https://github.com/user-attachments/assets/cc51db59-3050-423d-be7a-692a74713c0b)
 
+## Room Aanalysis View 
+
+![Room Analysis](https://github.com/user-attachments/assets/4233314d-d6af-4754-9dd3-a8ab636c090a)
 
 ## Some Key insights
 
